@@ -7,6 +7,8 @@ void ComputerMove() {}
 
 void CheckMove() {}
 
+void CheckVictory() {}
+
 int main()
 {
 
