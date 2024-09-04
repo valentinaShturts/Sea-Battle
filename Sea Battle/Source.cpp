@@ -5,6 +5,8 @@ void PlayerMove() {}
 
 void ComputerMove() {}
 
+void CheckMove() {}
+
 int main()
 {
 
