@@ -9,6 +9,8 @@ void CheckMove() {}
 
 void CheckVictory() {}
 
+void StartGame() {}
+
 int main()
 {
 
