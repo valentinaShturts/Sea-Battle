@@ -7,6 +7,8 @@ void CreateComputerBoard() {}
 
 void CreateBattleBoard() {}
 
+void Menu() {}
+
 int main()
 {
 
