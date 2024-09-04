@@ -9,6 +9,8 @@ void CreateBattleBoard() {}
 
 void Menu() {}
 
+void Results() {}
+
 int main()
 {
 
