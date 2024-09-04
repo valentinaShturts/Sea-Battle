@@ -5,6 +5,8 @@ void CreatePlayerBoard() {}
 
 void CreateComputerBoard() {}
 
+void CreateBattleBoard() {}
+
 int main()
 {
 
